@@ -4,11 +4,17 @@
 
 ### Zero-Commission Dual-Sided Service Marketplace
 
+<!-- Tech Stack Badges -->
 [![Java](https://img.shields.io/badge/Java-17+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.5-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+
+<!-- CI/CD Status Badges -->
+[![🚀 Full Stack CI](https://github.com/Adityapatel-dot/skillbridge/actions/workflows/ci.yml/badge.svg)](https://github.com/Adityapatel-dot/skillbridge/actions/workflows/ci.yml)
+[![🔧 Backend CI](https://github.com/Adityapatel-dot/skillbridge/actions/workflows/backend-ci.yml/badge.svg)](https://github.com/Adityapatel-dot/skillbridge/actions/workflows/backend-ci.yml)
+[![⚡ Frontend CI](https://github.com/Adityapatel-dot/skillbridge/actions/workflows/frontend-ci.yml/badge.svg)](https://github.com/Adityapatel-dot/skillbridge/actions/workflows/frontend-ci.yml)
 
 > A full-stack marketplace platform connecting clients with skilled service providers — **zero commission, full transparency.**
 
